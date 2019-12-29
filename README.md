@@ -14,3 +14,8 @@
 * Nicolas p. Rougier, From Python to Numpy, http://www.labri.fr/perso/nrougier/from-python-to-numpy/index.html
 * Nicolas p. Rougier, 100 Numpy exercises, http://www.labri.fr/perso/nrougier/teaching/numpy-100.html
 * Hans Fangohr, Introduction to Python for Computational Science and Engineering, Jupyter Notebooks online at https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering 
+* MATLAB® to Python: A Migration Guide, https://www.enthought.com/wp-content/uploads/Enthought-MATLAB-to-Python-White-Paper.pdf
+
+## راهنمای نصب
+برای نصب پایتون به همراه مجموعه ای از کتابخانه های مفید به خصوص علمی بهتر است نرم‌افزار آناکوندا که مجانی می باشد نصب شود
+این نرم افزار به مرور زمان بر اساس تغییرات خود پایتون و کتابخانه ها به هنگام می شود. این نرم افزار با توجه به سیستم عامل از لینک زیر قابل دانلود است
