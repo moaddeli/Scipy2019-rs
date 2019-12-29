@@ -11,6 +11,6 @@
 3. SciPy 2019 Tutorial: Introduction to Numerical Computing With NumPy, https://github.com/enthought/Numpy-Tutorial-SciPyConf-2019/raw/master/slides.pdf
 
 ## دیگر منابع
-1. Nicolas p. Rougier, From Python to Numpy, http://www.labri.fr/perso/nrougier/from-python-to-numpy/index.html
-2.Nicolas p. Rougier, 100 Numpy exercises, http://www.labri.fr/perso/nrougier/teaching/numpy-100.html
-    • Hans Fangohr, Introduction to Python for Computational Science and Engineering, Jupyter Notebooks online at https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering 
+* Nicolas p. Rougier, From Python to Numpy, http://www.labri.fr/perso/nrougier/from-python-to-numpy/index.html
+* Nicolas p. Rougier, 100 Numpy exercises, http://www.labri.fr/perso/nrougier/teaching/numpy-100.html
+* Hans Fangohr, Introduction to Python for Computational Science and Engineering, Jupyter Notebooks online at https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering 
